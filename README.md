@@ -4,7 +4,7 @@
 
 <hr>
 <h4>whoami???</h4>
-I am a Software Engineering && Network Engineering undergraduate student in at The Open University of Sri Lanka(https://ou.ac.lk) and Esoft Metro Campus(www.esoft.lk), Sri Lanka. Apart from that I am a self-taught programmer, Open-source enthusiast and becoming a Cyber Security Reseacher && OSS Developer in future.
+I am a Software Engineering && Network Engineering undergraduate student in at <a href="https://ou.ac.lk" target="_blank">The Open University of Sri Lanka</a> and <a href="www.esoft.lk" target="_blank">Esoft Metro Campus </a>, Sri Lanka. Apart from that I am a self-taught programmer, Open-source enthusiast and becoming a Cyber Security Reseacher && OSS Developer in future.
 
 <hr>
 <h3>My Interesting in Information Technology Field:</h3>
@@ -37,9 +37,9 @@ I am a Software Engineering && Network Engineering undergraduate student in at T
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### Frameworks:
-
+![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 #### Database
 
