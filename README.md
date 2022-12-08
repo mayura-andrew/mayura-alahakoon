@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m @mayura-alahakoon </h1>
-<h3> 👀 I’m interested in Linux, Open-Source Software, Web Development, Information Security, Cloud</h3>
+<h3> 👀 I’m interested in Linux, Open-Source Software, Web Development, Information Security and Cloud</h3>
 <h3>🌱 I’m currently learning JavaScript && NodeJS </h3>
 <h3>📫 How to reach me please visit my website --->><a href=https://mayura-alahakoon.github.io target="_blank">Click here</a>/ </h3>
 
