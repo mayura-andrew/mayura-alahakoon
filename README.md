@@ -16,9 +16,9 @@ I am a Software Engineering && Network Engineering undergraduate student in at <
 <hr>
   <h3>I am open to:</h3>
 
-- any collobration work,
-- Open-source Software Development
+- any collobration work
 - research areas in Cyber Security
+- Open-source Software Development
 
 <hr>
 
