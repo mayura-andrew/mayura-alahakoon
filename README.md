@@ -1,4 +1,4 @@
-# Hi there, I'm [Mayura Alahakoon](https://mayura-alahakoon.github.io) 👋 <br> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=03F700&background=000000&multiline=true&width=435&lines=%22I+am+always+doing+that+which+I+cannot+do%2C;in+order+that+I+may+learn+how+to+do+it.%22++-+Pablo+Picasso" alt="Typing SVG" /></a>
+# Hi there, I'm [Mayura Alahakoon](https://mayuraalahakoon.me) 👋 <br> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=03F700&background=000000&multiline=true&width=435&lines=%22I+am+always+doing+that+which+I+cannot+do%2C;in+order+that+I+may+learn+how+to+do+it.%22++-+Pablo+Picasso" alt="Typing SVG" /></a>
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h4>whoami???</h4>
