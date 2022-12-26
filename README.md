@@ -2,7 +2,7 @@
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h4>whoami???</h4>
-I am a Software Engineering && Network Engineering undergraduate student at <a href="https://ou.ac.lk" target="_blank">The Open University of Sri Lanka</a> and <a href="www.esoft.lk" target="_blank">Esoft Metro Campus </a>, Sri Lanka. Apart from that I am a self-taught programmer, Open-source enthusiast and becoming a Cyber Security Reseacher && OSS Developer in future.
+I am a Software Engineering && Network Engineering undergraduate student at <a href="https://ou.ac.lk" target="_blank">The Open University of Sri Lanka</a> and <a href="www.esoft.lk" target="_blank">Esoft Metro Campus </a>, Sri Lanka. Apart from that I am a self-taught programmer, Open-source enthusiast and becoming a Cyber Security Reseacher && OSS Developer in the future.
 
 <hr>
 <h3>My Interesting in Information Technology Field:</h3>
