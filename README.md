@@ -76,7 +76,7 @@ I am a Software Engineering && Network Engineering undergraduate student at <a h
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@mayuraalahakoon)
 </p>
 <hr>
-<a href="https://github.com/mayura-alahakoon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayura-alahakoon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/mayura-alahakoon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayura-alahakoon&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/mayura-alahakoon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayura-alahakoon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/mayura-alahakoon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayura-alahakoon&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <hr>
 
