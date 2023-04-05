@@ -5,15 +5,15 @@
 
 - Open-source Software Development
 - Web Application Development
-- Linux Operating Systems
+- Linux
 - Information Security
 - Cloud
+- DevOps Engineering
 
 <hr>
   <h3>I am open to:</h3>
 
 - any collobration work
-- research areas in Cyber Security
 - Open-source Software Development
 
 <hr>
